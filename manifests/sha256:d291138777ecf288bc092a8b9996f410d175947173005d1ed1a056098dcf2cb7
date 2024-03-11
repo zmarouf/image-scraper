@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7328,
+      "digest": "sha256:80e695ec77c7647a7f6a63d210cf18755f28b84dd91351fee1a89b73e4ffe2df"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 55084838,
+         "digest": "sha256:09e2bc8a597c33b54cccaf52f2e21798e2e0df79ab6cb33d3b1dfd4b33a57512"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 15763532,
+         "digest": "sha256:a1bbf2983642e080d705d575c1da8d4d8c35507576d88e44979b5c6229573d40"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 54588461,
+         "digest": "sha256:43c7d862cba465d342dbf73dca7caf5e04c2ec7b374c918ec26f305e2ba3f78f"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 196974754,
+         "digest": "sha256:d0209a266bb24310efc230a2cedc8c753df202b1367d6b917b3a6febaaa225fd"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 4196,
+         "digest": "sha256:232218c10a042c31da2bbf53d829d244f1c1b2a1ad7a9f1ad6343cbc4b571b00"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 49717113,
+         "digest": "sha256:ff95375ebdc11b1ff2dc61b21aa67dd5389d5f665671edebb87c1e171157ba01"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 2233914,
+         "digest": "sha256:9988c3c5cb7a07be9541701a69880dc8291a9eda8675a123746706dc3fd7c136"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 452,
+         "digest": "sha256:87b5aba3d9a3175448c0127afbe8797d88f0803c07e87155d037e382c0520a3b"
+      }
+   ]
+}
