@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7343,
+      "digest": "sha256:6a34b980ec1a2ae80c27bf2fc8693dbc942dbec367c00aea63e60289bd0d5d62"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 53721486,
+         "digest": "sha256:4245faf914201feff648b048cbaf6c46414d24a56e29e4cff1f82ac1b151d326"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 15749141,
+         "digest": "sha256:95d359f54bdf6c7734649777e288d4d317d49bd63e944dd5f852641a97b61527"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 54693679,
+         "digest": "sha256:53c2c85b768f52fc0353f0af0e43d671b1d1025996f39d238e750611070d206c"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 189883632,
+         "digest": "sha256:65abc8b7accd0e9bdc9cc49eb9156409ec3f7da3e3f756461cedc2eba2531331"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 4201,
+         "digest": "sha256:faded10221d5fa72784b2e464ddfbc728a06d7c2d06e77bb37a5de6cd36f1678"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 49572354,
+         "digest": "sha256:fcbaa3bcb41ebf5dc9ad6bc440e33576f3635eb575406b4bcb24a03118fc5e58"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 2233904,
+         "digest": "sha256:e5b8ef39956004d0e83f23f3d15b0d51b34e988e7bd0122bd693c0ce11a7c5ca"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 450,
+         "digest": "sha256:26d5106d18b8fd29697683c7ed7a730154b3f9e85704197a65848596768d35cc"
+      }
+   ]
+}

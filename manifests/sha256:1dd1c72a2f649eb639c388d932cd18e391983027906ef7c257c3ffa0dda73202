@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7341,
+      "digest": "sha256:cd4a7324f28cbd261c0a6825ed9dee486f4872f40c664cd41509d2679bcf633b"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 50241706,
+         "digest": "sha256:623a3ffac68434a8d471ef584bdb1dcbfafd4648778c484c1566ff7910d04b0e"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 14879180,
+         "digest": "sha256:6c12ee536bcdc51ad528b0ed79abe7893d5c4c356dd3b5d3321eb8eda18294ca"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 50357734,
+         "digest": "sha256:eebe7ea1391c25ae1a4d9bd9382746170a0edc00c1085152e15d7ade4b3fa456"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 167437433,
+         "digest": "sha256:6dbdd712885977c538429b59aa851dd5be6499412cb7b2ba0cb37a20b9186252"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 4184,
+         "digest": "sha256:b9554cfc6b7a2690d6d9fb073398173e3e9489a34084538a17d19e7a71d4ce95"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 45648138,
+         "digest": "sha256:1c1d3327d28f6d2586bb36ffa230a33558fc43ce9d0ada8bad85dad35899ee35"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 2223491,
+         "digest": "sha256:6d932a465cb74ba150fd41724df796c20a0fafd86dd68d47a891166f78cba969"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 453,
+         "digest": "sha256:6bf652f23bd653117882818f94f70a8d1c667df3bda6dca259759273407e8c68"
+      }
+   ]
+}

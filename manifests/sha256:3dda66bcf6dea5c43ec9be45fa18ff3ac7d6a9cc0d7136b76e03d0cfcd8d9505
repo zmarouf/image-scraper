@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7347,
+      "digest": "sha256:c201572c78ee90e12b6e2823b0068a17cfefe970ce5cf1d00c196f2fdbd2ccf6"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 49590965,
+         "digest": "sha256:c2964e85ea54bbef26d274e85fa0a3fde68f074e0774d0729e6ebe341e24eee1"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 23582766,
+         "digest": "sha256:d3436c315a5dcd9b17acc96236fdf378dcf2deb72fe9dafb42d894a3c362ac75"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 63990920,
+         "digest": "sha256:603ae72c83b17aae41ce6857f0063bfd35b5f00dc5d7e1ad47fa18debb28b2c7"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 202519692,
+         "digest": "sha256:bcabfc6c415bdafce0fb78b78afe51a8be789b05c4c3f5ccf5f1046bb5d32776"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 3366,
+         "digest": "sha256:d4787ee6f8d48bda7e401caa8da2387c40d61f88304cfe25e8f881cae1650739"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 49572338,
+         "digest": "sha256:a06acc633512a0e5b70e3770d1aa52f57f322b72337565d9170074295eac2668"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 2234050,
+         "digest": "sha256:3471dd91ec3d80d789cb330b9d23189d57c802d7d8823b051bdf6a07b766e129"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 450,
+         "digest": "sha256:64b0f0cd2ab3e66efaaada69da4a6807fd82f1de51cebead2fe03ce57f507452"
+      }
+   ]
+}

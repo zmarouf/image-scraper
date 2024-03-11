@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7330,
+      "digest": "sha256:157096bb97689c4d5457d611f42e1f21f89b82a3317e8e97f8e0580c2807b38a"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 58954488,
+         "digest": "sha256:5b3ca2d45f6b2df666b88854e431316a856c6ecacdd29894dd599694e415a1eb"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 16765559,
+         "digest": "sha256:8cfa650184f634b15bc0f1ddd50aeaa4b660e83cbc9fd51d576c3910ebaaad53"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 58872935,
+         "digest": "sha256:b20c4f70ca0212997eb1b2c82b5f1feb6920ff2654089e68975cba4b400a4451"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 196324754,
+         "digest": "sha256:73b71a4e8c3360ab2f0fc44790fa318623d9b5bf860bb3aff76bf5e481709053"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 4197,
+         "digest": "sha256:799012822820057f42805061b83aaf7bc4ab53435004a4fab1626fb953aae58e"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 52245249,
+         "digest": "sha256:6c0cdeafccd4d3db9031990574acfb3e0a208c47a3a17585b5402f68aa42ce5b"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 2234026,
+         "digest": "sha256:51b2fd21a383b643255fa41abde9e45e7bcaa91ddc188b4b6dab8de7040347a5"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 454,
+         "digest": "sha256:39b8a7f8d8adaaaef1bc9ad70c7e6c60deadf569e8c557ec10bf237ada158682"
+      }
+   ]
+}

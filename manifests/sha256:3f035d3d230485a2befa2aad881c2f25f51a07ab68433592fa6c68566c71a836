@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7348,
+      "digest": "sha256:a2f2f955ebcfcf3abb3f74a49d8a421f377a4a023065bcd9367133a7fc469333"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 45153612,
+         "digest": "sha256:84ee7bddcb1a35ae933efe6113f47b4047fb90d2a626c4a8a93e3548fa8b61d5"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 21950325,
+         "digest": "sha256:88e6fa0e83f7c31cdfb8e77c4a8229243dc182cac7b985200c404bddc6e2bc9d"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 59212948,
+         "digest": "sha256:2cc5ce3fd388c71fe9b8c5fd1ab13a73a9257e22d4d7127d4bb59672159f2c27"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 175089000,
+         "digest": "sha256:80088b70c07ea4625157344410c74a9f5aee9d7c29474b2a4353496defbfb5b1"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 3374,
+         "digest": "sha256:362a5439bae8cd283ce26fbcfa4fb99d5b1fd45f37c1f6451edb31a8652e0db3"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 45648164,
+         "digest": "sha256:dc24325a92c9735bc8f5994139e99197ed224b57116a9268dfc2941d7fff0b9d"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 2223545,
+         "digest": "sha256:53984f5f98ba4a9b56d400430405dc1584da33e0551b2e7e87589def6cee1179"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 453,
+         "digest": "sha256:ee4efefcc238ba5038b812421e33dd550d6b8f77b5910b1fe213597b039efef5"
+      }
+   ]
+}
