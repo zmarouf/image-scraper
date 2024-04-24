@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7413,
+      "digest": "sha256:a5c826ece1e05ac6e0bc5437453d1bbb911a1a509e77d8a789ec9d69be98c39b"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 49560360,
+         "digest": "sha256:609c73876867487da051ad470002217da69bb052e2538710ade0730d893ff51f"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 24046793,
+         "digest": "sha256:7247ea8d81e671d079d67f3a9909315ef4641b45db90d62a1b18e3430c1937d4"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 64140565,
+         "digest": "sha256:be374d06f38273b62ddd7aa5bc3ce3f9c781fd49a1f5a5dd94a46d2986920d7a"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 211137750,
+         "digest": "sha256:b4580645a8e50b87a19330da289a9b1540022379f2c99d3f0112e3c5c4a8d051"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 3371,
+         "digest": "sha256:dfc93b8f025cacb2b7fb13be1c7b87ff1cb61e46f01414022a5bded203a17ebd"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 48020381,
+         "digest": "sha256:bf8e0edd59dc94571661e04adbcf309d82aacb5a7263ce0e10e461e51e137f9b"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 1247103,
+         "digest": "sha256:8de7d5fc350f7794077028410329c97555162faba390b1dd382bc6fb1d3b3fcf"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 455,
+         "digest": "sha256:26a6e7f87831b4bfe7ab5f001c2fc7bc6dc207b6dd9bea791e24c9a21b772b14"
+      }
+   ]
+}

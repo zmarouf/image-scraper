@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7414,
+      "digest": "sha256:c0fa7b3fe014b0871d9d240991f6c0f70438c4928de10ec21b517684374a844c"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 47922706,
+         "digest": "sha256:17f5c0a7be3d447b0aca6569b534fabcb69c578072a0cdb81f078fd4872eba70"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 24043531,
+         "digest": "sha256:c5a94fdcea32a650c77c01028838d670a5840f3ead5a1cf5526e922967f0df66"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 63126889,
+         "digest": "sha256:bdaec0019454e24574ad418259f50f0d68508dcf92f31f05ca5d5ad33dcf43bb"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 183165967,
+         "digest": "sha256:bfce7e73c441e81b6b2408dea6732c47c87f4c633b91c6d77faf8891b50ab262"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 3370,
+         "digest": "sha256:59d6ba64d6f5a490039fb108c25fc926ccf6f4b99ffee6d08dedc44804ae9e4e"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 45434855,
+         "digest": "sha256:5772bb4ddb2d0ba0ed9c384b9e4f38d16a3f48d63244b0b466fb135a3e91c0bd"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 1247103,
+         "digest": "sha256:902e32d7445be64b4b82bad14f7d3e11b4f6c7af8f39bdfc3591a846d15c20a0"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 454,
+         "digest": "sha256:fabd8e82c398ef50001774433d8fb34f845cbd45336535978cc34c3ccf1d9310"
+      }
+   ]
+}

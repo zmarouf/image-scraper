@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7404,
+      "digest": "sha256:ca158052a11230c4261aed80a0d019fcd448587da3db51b1c62b95d680ffa4c0"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 55090264,
+         "digest": "sha256:ac323bdaa10f869bd9e7adecd8f5326e44acc4c59168868108b1cdf3891089cc"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 15763518,
+         "digest": "sha256:84811b2a563b9003abbd1c06f6e45a857315b931855030bdd0443d13d950a996"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 54588743,
+         "digest": "sha256:b3ff24b88ad3798f817849ad391d809ece121dc9b7f82f24bb68eed84561f048"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 196985611,
+         "digest": "sha256:c6f58f24df78e3aabf785017c3197c2a09fd606e7f19a830a1cfde41f681f39e"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 4199,
+         "digest": "sha256:df8f64bc8f142b84348228f979a7c0e4e3ef74188bfc494a6e48537eba3a7b87"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 49716908,
+         "digest": "sha256:544798451aeacb236b9789ed53d5ff7b4c7d5d11dff9765c2f161839a6adadce"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 1247105,
+         "digest": "sha256:3b4aa0a36f64d3bd6bba8f579f92b8900e3d5e19fc7bc437f16aab08de0ceeaf"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 455,
+         "digest": "sha256:06d3eb845859eba43a1069ef524562a587b702afba0a49c1de75568a57dc6814"
+      }
+   ]
+}

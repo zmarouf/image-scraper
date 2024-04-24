@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7407,
+      "digest": "sha256:afeb27a4142280479bb38dcc80b3cf5fdaa378b6929b57d673a7b64b0dc530c5"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 53324935,
+         "digest": "sha256:8d59905935c60c8e62d2bce55ff58a911d9ceda48b95f8209712af92b63b5ceb"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 15641598,
+         "digest": "sha256:389d06a9a1a36eb81d725be8859911dbff14d557f54a14795436ae38ccd42a97"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 54075652,
+         "digest": "sha256:c4ed65098ad9320ac0b40e4be7ea7a1b7169e2786089554bc580dd22bd53591c"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 172991518,
+         "digest": "sha256:0ad291048530ded42ea1541cf11a0c743fbc2f8d434ea0ada83f8c96dce458a0"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 4202,
+         "digest": "sha256:f933602979254393c4f872c92d78c7bac66c2e607c08cb32cca74f5d3878472b"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 47851373,
+         "digest": "sha256:51820acb8a74b540b6d386e2b8bda59ad0b40621c094230974857cced9ebbb42"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 1247116,
+         "digest": "sha256:77fcb37988c9a982e728ef6978af6844cb8c608c4e6d980b8b14c9d652869ece"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 456,
+         "digest": "sha256:be16e3fa3e5b5c0fa4f605285e341f3b75ca8cedd9dd14c761fbcb26790e3e9b"
+      }
+   ]
+}

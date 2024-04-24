@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7406,
+      "digest": "sha256:3d4e1ffe3d93df48e38c3256676efd85e229c8377b8c55806155239ebd856654"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 55090264,
+         "digest": "sha256:ac323bdaa10f869bd9e7adecd8f5326e44acc4c59168868108b1cdf3891089cc"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 15763518,
+         "digest": "sha256:84811b2a563b9003abbd1c06f6e45a857315b931855030bdd0443d13d950a996"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 54588743,
+         "digest": "sha256:b3ff24b88ad3798f817849ad391d809ece121dc9b7f82f24bb68eed84561f048"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 196985611,
+         "digest": "sha256:c6f58f24df78e3aabf785017c3197c2a09fd606e7f19a830a1cfde41f681f39e"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 4199,
+         "digest": "sha256:df8f64bc8f142b84348228f979a7c0e4e3ef74188bfc494a6e48537eba3a7b87"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 48020392,
+         "digest": "sha256:f91f61771c612a61e3ee6859af064c04a74a265af81ec4981677f31d0ffc67f7"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 1247107,
+         "digest": "sha256:ec7ad86da6e0494d24c8e31447a540a8e7925be23cde20d86106ce6c52ca3a84"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 455,
+         "digest": "sha256:ffa7b993a528e33bc614e89ff39e5a03935489cf0b9a8227150807fce0c9fc3d"
+      }
+   ]
+}

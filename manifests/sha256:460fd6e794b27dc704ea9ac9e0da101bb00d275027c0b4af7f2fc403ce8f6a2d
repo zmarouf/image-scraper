@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7407,
+      "digest": "sha256:16935260e9f7d5c791f09b9392531aec06d99363ea80f7e0290513cb6d453c7c"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 58959030,
+         "digest": "sha256:eed533dbdbda3df66dcde8a75fb0ab317466f575d116ffa4e053da66ab0dd942"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 16765741,
+         "digest": "sha256:e798a4c3c738ae3b2b3ae6f2b6f02c6db9d510fadd63004b60dd8268c907ee34"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 58873011,
+         "digest": "sha256:82a0da44da0fa59c2e0283157a263f65dcc5e2b22c7a5515c68bd6d82e305a55"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 196345047,
+         "digest": "sha256:711cc15f136ce528a3936b4864554b8879c5d361f9d968ba9b756dd216f192eb"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 4199,
+         "digest": "sha256:a099280dd0f6e916cf68fee48f26196455e6a82f7f4b39e5ecbfcba46385a83b"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 50519310,
+         "digest": "sha256:9be6fe9ae7b8cbd44b61fa66561c34d8164e2088dc315332f8c4bf6d461d49aa"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 1247106,
+         "digest": "sha256:201f04c634b2144f5893a2c89cd562323b6bf228948e65f5f56cdfffc62c6c6d"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 457,
+         "digest": "sha256:defae54c2933d1c49a5e2cb3d57e6cb88899c6b47a6c460b9a44a51048fbfee0"
+      }
+   ]
+}

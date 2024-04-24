@@ -1,0 +1,51 @@
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "size": 7407,
+      "digest": "sha256:3988d0a46bc0ee633817434447cdd6092284bcbb5cb6d755099221f58da565fe"
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 53324935,
+         "digest": "sha256:8d59905935c60c8e62d2bce55ff58a911d9ceda48b95f8209712af92b63b5ceb"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 15641598,
+         "digest": "sha256:389d06a9a1a36eb81d725be8859911dbff14d557f54a14795436ae38ccd42a97"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 54075652,
+         "digest": "sha256:c4ed65098ad9320ac0b40e4be7ea7a1b7169e2786089554bc580dd22bd53591c"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 172991518,
+         "digest": "sha256:0ad291048530ded42ea1541cf11a0c743fbc2f8d434ea0ada83f8c96dce458a0"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 4202,
+         "digest": "sha256:f933602979254393c4f872c92d78c7bac66c2e607c08cb32cca74f5d3878472b"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 45434856,
+         "digest": "sha256:6fa8f86c87757fdbf7672b2a69e3ca37150aafe5cce7b625f628066a714063a6"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 1247106,
+         "digest": "sha256:2780c8250176306c3fbb77237966a4f8e79255c438d39dab93c38f60422386dc"
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "size": 455,
+         "digest": "sha256:b482fe37d052387b463a647c059a027277407a09d911c5f36d096be333ff33f7"
+      }
+   ]
+}
