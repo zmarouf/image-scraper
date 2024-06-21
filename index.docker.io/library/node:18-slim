@@ -1,1 +1,1 @@
-{"mediaType":"application/vnd.docker.distribution.manifest.list.v2+json","size":1206,"digest":"sha256:408f8cbbb7b33a5bb94bdb8862795a94d2b64c2d516856824fd86c4a5594a443"}
+{"mediaType":"application/vnd.oci.image.index.v1+json","size":5432,"digest":"sha256:d78204dd36a5b7159acbe285307dd747cc6da0172b6cdb76fe9ce7448c1e04a3"}
